@@ -1,0 +1,8 @@
+[History]
+1=#P0#=mb	#P1#=QuitOption_Click	#P2#=Project1/Form1/QuitOption_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20231012141316	#P7#=0	#P8#=-2	.
+2=#P0#=mb	#P1#=OpenOption_Click	#P2#=Project1/Form1/OpenOption_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20231012125523	#P7#=0	#P8#=1	.
+3=#P0#=mb	#P1#=txtLogger_Change	#P2#=Project1/Form1/txtLogger_Change	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20231012141827	#P7#=0	#P8#=-1	.
+4=#P0#=mb	#P1#=cmdReset_Click	#P2#=Project1/Form1/cmdReset_Click	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20231012142839	#P7#=0	#P8#=0	.
+5=#P0#=mb	#P1#=txtText1_Change	#P2#=Project1/Form1/txtText1_Change	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20231012113258	#P7#=0	#P8#=-1	.
+6=#P0#=mb	#P1#=cmdAperte_Click	#P2#=Project1/Form1/cmdAperte_Click	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20231009144132	#P7#=0	#P8#=-1	.
+7=#P0#=mb	#P1#=Testing_DragDrop	#P2#=Project1/Form1/Testing_DragDrop	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20231012112821	#P7#=0	#P8#=0	.
